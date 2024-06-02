@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"csata","l":"Csata"},{"p":"elokeszit","l":"Egyseg"},{"p":"terkep","l":"Elhelyez"},{"p":"elokeszit","l":"Elokeszit"},{"p":"csata","l":"GepCsata"},{"p":"gep","l":"GepValaszt"},{"p":"elokeszit","l":"Hos"},{"p":"<Unnamed>","l":"Main"},{"p":"elokeszit","l":"Varazslat"}];updateSearchResults();
